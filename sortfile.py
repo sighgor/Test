@@ -13,3 +13,4 @@ def bsort(L):
 L=bsort(L)
 output.write(' '.join(L))
 output.close()
+print 'test'
